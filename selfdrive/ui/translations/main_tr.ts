@@ -1010,6 +1010,18 @@ The default software delay value is 0.2</source>
         <source>Cancel</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Refresh Model List</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>REFRESH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching Latest Models</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MultiOptionDialog</name>
